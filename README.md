@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no IFBA.
 - 💼 Procurando estágio como dev back-end.
-- 🌱 Aprendendo mais sobre Java, Spring Boot, API REST e Microsserviços.
+- 🌱 Aprendendo mais sobre Java, Spring Boot, Microservices, API REST e RESTful.
 
 ## Minhas Skills
 
@@ -35,7 +35,9 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendes-Matheus&show_icons=true&theme=dark&rank_icon=github)
+![Matheus Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendes-Matheus&show_icons=true&theme=dark&rank_icon=github)
+
+[![Mendes-Matheus](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendes-Matheus&hide=html&layout=compact&theme=dark)](https://github.com/Mendes-Matheus/github-readme-stats)
 
 ## Onde me encontrar
 
