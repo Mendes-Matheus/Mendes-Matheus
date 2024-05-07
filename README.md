@@ -37,8 +37,9 @@
 
 ![Matheus Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendes-Matheus&show_icons=true&theme=dark&rank_icon=github)
 
+<!--
 [![Mendes-Matheus](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendes-Matheus&hide=html&layout=compact&theme=dark)](https://github.com/Mendes-Matheus/github-readme-stats)
-
+-->
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Matheus_Mendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msmmendes211/)](https://www.linkedin.com/in/msmmendes211/)
