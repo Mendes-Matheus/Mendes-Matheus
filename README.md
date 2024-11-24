@@ -1,9 +1,12 @@
-## Sobre mim
+## 👋 Olá! Meu nome é Matheus, sou desenvolvedor back-end.
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas no IFBA.
-- 💼 Procurando estágio como dev back-end.
-- 🌱 Aprendendo mais sobre Java, Spring Boot, Microservices, API REST e RESTful.
+- 💻 Estudo Análise e Desenvolvimento de Sistemas no IFBA e trabalho em projetos com Java e Spring Boot.
+
+## Meus contatos
+
+[![Linkedin](https://img.shields.io/badge/-Matheus_Mendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msmmendes211/)](https://www.linkedin.com/in/msmmendes211/)
+[![Gmail Badge](https://img.shields.io/badge/-msmmendes211@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msmmendes211@gmail.com)](mailto:msmmendes211@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Mendes-Matheus)
 
 ## Minhas Skills
 
@@ -37,11 +40,6 @@
 
 ![Matheus Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendes-Matheus&show_icons=true&theme=dark&rank_icon=github)
 
-<!--
-[![Mendes-Matheus](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendes-Matheus&hide=html&layout=compact&theme=dark)](https://github.com/Mendes-Matheus/github-readme-stats)
--->
-## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Matheus_Mendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msmmendes211/)](https://www.linkedin.com/in/msmmendes211/)
-[![Gmail Badge](https://img.shields.io/badge/-msmmendes211@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msmmendes211@gmail.com)](mailto:msmmendes211@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Mendes-Matheus)
+[![Mendes-Matheus](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendes-Matheus&hide=html&layout=compact&theme=dark)](https://github.com/Mendes-Matheus/github-readme-stats)
+
